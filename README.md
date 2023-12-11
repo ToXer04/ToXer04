@@ -14,7 +14,7 @@ const aboutMe = {
       databases: ["mySQL"],
       mobile: ["Android", "IOS"]
    },
-   currentOccupation: ["still studying, open to job opportunities"],
+   currentOccupation: ["Still studying, open to job opportunities"],
 };
 ```
 </br></br>
