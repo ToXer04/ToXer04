@@ -8,11 +8,9 @@ const aboutMe = {
    technologies: {
       backEnd: {
          java: ["Spring"],
-         js: ["Node"],
          misc: ["Bash"]
       },
       databases: ["mySQL"],
-      mobile: ["Android", "IOS"]
    },
    currentOccupation: ["Still studying, open to job opportunities"],
 };
