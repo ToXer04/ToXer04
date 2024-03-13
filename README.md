@@ -12,7 +12,7 @@ const aboutMe = {
       },
       databases: ["mySQL"],
    },
-   currentOccupation: ["Still studying, open to job opportunities"],
+   currentOccupation: ["Open to job opportunities"],
 };
 ```
 </br></br>
